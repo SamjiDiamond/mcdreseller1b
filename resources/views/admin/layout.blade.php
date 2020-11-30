@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- Mirrored from mannatthemes.com/crovex/crovex_live/dashboard/sales-index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Sep 2020 08:44:35 GMT -->
 <head>
     <meta charset="utf-8">
     <title>{{env("TELECOM_NAME")}} - Admin</title>
@@ -184,5 +183,4 @@
 </div>
 <!-- end page-wrapper --><!-- jQuery  --><script src="/assets/js/jquery.min.js"></script><script src="/assets/js/bootstrap.bundle.min.js"></script><script src="/assets/js/metismenu.min.js"></script><script src="/assets/js/waves.js"></script><script src="/assets/js/feather.min.js"></script><script src="/assets/js/jquery.slimscroll.min.js"></script><script src="/assets/js/jquery-ui.min.js"></script><script src="../../plugins/moment/moment.js"></script><script src="../../plugins/apexcharts/apexcharts.min.js"></script><script src="../../plugins/jvectormap/jquery-jvectormap-2.0.2.min.js"></script><script src="../../plugins/jvectormap/jquery-jvectormap-world-mill-en.js"></script><script src="../../plugins/chartjs/chart.min.js"></script><script src="../../plugins/chartjs/roundedBar.min.js"></script><script src="../../plugins/lightpick/lightpick.js"></script><script src="/assets/pages/jquery.sales_dashboard.init.js"></script><!-- App js --><script src="/assets/js/app.js"></script>
 </body>
-<!-- Mirrored from mannatthemes.com/crovex/crovex_live/dashboard/sales-index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 Sep 2020 08:44:35 GMT -->
 </html>

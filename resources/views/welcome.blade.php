@@ -60,7 +60,7 @@
 <div class="column dark-background accent-green box box-landing-1">
 
     <div class="w3-blue w3-padding-large w3-padding-32 w3-margin-top w3-margin-bottom" id="contact">
-        <h2 class="w3-center" style="font-size: 15px">We offer best deals when it comes to internet Data Plans, Airtime and Tv Subscription in Nigeria with a completely hassle-free experience with options of paying through online payment/bank transfer through secured and trusted gateways.</h2>
+        <h2 class="w3-center" style="font-size: 15px">We offer best deals when it comes to internet Data Plans, Airtime and Tv Subscription in Nigeria with a completely hassle-free experience with options of paying through online payment/bank transfer through secured and trusted gateways. Top up phone airtime or internet data. Renew TV subscriptions.</h2>
         <div class="row">
             <div class="col-md-4">
                 <h3>SPEED</h3>
@@ -82,43 +82,43 @@
 <div class="container">
         <div class="row" style="color: white;">
 
-    <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2" style="border-radius: 10px; border-color: yellow; border-width: 2px; border-style: double; margin-left: 30px; padding: 10px; margin-bottom: 30px; color: black; background-color: #013220">
+    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3" style="border-radius: 10px; border-color: yellow; border-width: 2px; border-style: double; margin-left: 30px; padding: 10px; margin-bottom: 30px; color: black; background-color: #013220">
                     <!-- PRICE ITEM -->
                     <div class="panel price panel-yellow">
                         <div class="panel-heading  text-center">
-                        <h3>MTN</h3>
+                        <h3>Buy Phone Airtime</h3>
                         </div>
                         <div class="panel-body text-center">
-                            <p class="lead"><strong>30 days</strong></p>
+                            <p class="lead"><strong>Instant Delivery</strong></p>
                         </div>
                         <ul class="list-group list-group-flush text-center">
-                            <li class="list-group-item"><i class="icon-ok text-warning"></i>1gb = ₦500</li>
-                    <li class="list-group-item"><i class="icon-ok text-warning"></i>2gb = ₦1000</li>
-<li class="list-group-item"><i class="icon-ok text-warning"></i> 5gb = ₦2500</li>
+                            <li class="list-group-item"><i class="icon-ok text-warning"></i>MTN VTU</li>
+                    <li class="list-group-item"><i class="icon-ok text-warning"></i>GLO VTU</li>
+<li class="list-group-item"><i class="icon-ok text-warning"></i> 9MOBILE VTU</li>
+<li class="list-group-item"><i class="icon-ok text-warning"></i> AIRTEL VTU</li>
                         </ul>
                         <div class="panel-footer">
-                            <a class="w3-button w3-block w3-hover-blue w3-border-blue" href="{{ url('/buydata') }}"><span>BUY NOW!</span></a>
+                            <a class="w3-button w3-block w3-hover-blue w3-border-blue" href="{{ url('/buyairtime') }}"><span>BUY NOW!</span></a>
                         </div>
                     </div>
                     <!-- /PRICE ITEM -->
                     </div>
 
 
-                     <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2" style="border-radius: 10px; border-color: red; border-width: 2px; border-style: double; margin-left: 30px; padding: 10px; margin-bottom: 30px; color: black; background-color: #013220">
+                     <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3" style="border-radius: 10px; border-color: red; border-width: 2px; border-style: double; margin-left: 30px; padding: 10px; margin-bottom: 30px; color: black; background-color: #013220">
                     <!-- PRICE ITEM -->
                     <div class="panel price panel-red">
                         <div class="panel-heading arrow_box text-center">
-                        <h3>Airtel</h3>
+                        <h3>Buy Internet Data</h3>
                         </div>
                         <div class="panel-body text-center">
                             <p class="lead"><strong>30 days</strong></p>
                         </div>
                         <ul class="list-group list-group-flush text-center">
-    <li class="list-group-item"><i class="icon-ok text-danger"></i>  1.5gb = ₦1000</li>
-  <li class="list-group-item"><i class="icon-ok text-danger"></i>3.5GB = ₦2000 </li>
-                    <li class="list-group-item"><i class="icon-ok text-danger"></i> 10gb = ₦4850 </li>
-<li class="list-group-item"><i class="icon-ok text-danger"></i> 16gb = ₦7800 </li>
-<li class="list-group-item"><i class="icon-ok text-danger"></i> 22gb = ₦9850 </li>
+    <li class="list-group-item"><i class="icon-ok text-danger"></i>MTN DATA</li>
+  <li class="list-group-item"><i class="icon-ok text-danger"></i>GLO DATA</li>
+                    <li class="list-group-item"><i class="icon-ok text-danger"></i>AIRTEL DATA</li>
+<li class="list-group-item"><i class="icon-ok text-danger"></i> 9MOBILE DATA </li>
                         </ul>
                         <div class="panel-footer">
                             <a class="w3-button w3-block w3-hover-blue w3-border-blue" href="{{ url('/buydata') }}"><span>BUY NOW!</span></a>
@@ -128,50 +128,22 @@
                 </div> <!-- endy -->
 
 
-                    <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2" style="border-radius: 10px; border-color: green; border-width: 2px; border-style: double; margin-left: 30px; padding: 10px; margin-bottom: 30px; color: black; background-color: #013220">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3" style="border-radius: 10px; border-color: green; border-width: 2px; border-style: double; margin-left: 30px; padding: 10px; margin-bottom: 30px; color: black; background-color: #013220">
                     <!-- PRICE ITEM -->
                     <div class="panel price panel-green">
                         <div class="panel-heading arrow_box text-center">
-                        <h3>9mobile</h3>
+                        <h3>Pay TV Subs</h3>
                         </div>
                         <div class="panel-body text-center">
-                            <p class="lead"><strong>30 days</strong></p>
+                            <p class="lead"><strong>Instant Activation</strong></p>
                         </div>
                         <ul class="list-group list-group-flush text-center">
-                                <li class="list-group-item"><i class="icon-ok text-primary"></i> 250mb = ₦300</li>
-                            <li class="list-group-item"><i class="icon-ok text-success"></i> 1gb = ₦750</li>
-  <li class="list-group-item"><i class="icon-ok text-primary"></i> 1.5gb = ₦1100 </li>
-                    <li class="list-group-item"><i class="icon-ok text-success"></i> 2gb = ₦1350</li>
-<li class="list-group-item"><i class="icon-ok text-primary"></i> 3gb = ₦2050 </li>
-<li class="list-group-item"><i class="icon-ok text-primary"></i> 5gb = ₦3180 </li>
+                                <li class="list-group-item"><i class="icon-ok text-primary"></i>DSTV</li>
+                            <li class="list-group-item"><i class="icon-ok text-success"></i>GOTV</li>
+  <li class="list-group-item"><i class="icon-ok text-primary"></i>STARTIMES</li>
                         </ul>
                         <div class="panel-footer">
-                            <a class="w3-button w3-block w3-hover-blue w3-border-blue" href="{{ url('/buydata') }}"><span>BUY NOW!</span></a>
-                        </div>
-                    </div>
-                    <!-- /PRICE ITEM -->
-                </div>
-
-                    <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2" style="border-radius: 10px; border-color: green; border-width: 2px; border-style: double; margin-left: 30px; padding: 10px; margin-bottom: 30px; color: black; background-color: #013220">
-                    <!-- PRICE ITEM -->
-                    <div class="panel price panel-green">
-                        <div class="panel-heading arrow_box text-center">
-                        <h3>GLO</h3>
-                        </div>
-                        <div class="panel-body text-center">
-                            <p class="lead"><strong>30 days</strong></p>
-                        </div>
-                        <ul class="list-group list-group-flush text-center">
-                                <li class="list-group-item"><i class="icon-ok text-success"></i> 1.6GB/2GB = ₦1000 </li>
-  <li class="list-group-item"><i class="icon-ok text-primary"></i> 3.65GB/4.5GB = ₦1850 </li>
-                    <li class="list-group-item"><i class="icon-ok text-success"></i> 5.75GB/7.2GB = ₦2300 </li>
-<li class="list-group-item"><i class="icon-ok text-primary"></i> 7GB/8.25GB = ₦2800 </li>
-<li class="list-group-item"><i class="icon-ok text-primary"></i> 10GB/12.5GB = ₦3600 </li>
-<li class="list-group-item"><i class="icon-ok text-primary"></i> 12.5GB/15.6GB = ₦4400 </li>
-<li class="list-group-item"><i class="icon-ok text-primary"></i> 20GB/25GB = ₦7200 </li>
-                        </ul>
-                        <div class="panel-footer">
-                            <a class="w3-button w3-block w3-hover-blue w3-border-blue" href="{{ url('/buydata') }}"><span>BUY NOW!</span></a>
+                            <a class="w3-button w3-block w3-hover-blue w3-border-blue" href="{{ url('/buypaytv') }}"><span>BUY NOW!</span></a>
                         </div>
                     </div>
                     <!-- /PRICE ITEM -->
