@@ -183,7 +183,7 @@
 
 
         <div class="column dark-background" style="color: white; background-color: darkslategrey; padding: 15px; font-weight: bold;">
-            <div align="center">Copyright &copy; 2019 {{env("TELECOM_NAME")}} &reg; |  <a href="https://www.facebook.com/" style="text-decoration: none">Facebook</a> | <a href="https://wa.me/{{env('TELECOM_SUPPORT_PHONE')}}" style="color: lightgreen; text-decoration: none">Whatsapp</a> </div>
+            <div align="center">Copyright &copy; 2019 {{env("TELECOM_NAME")}} &reg; |  <a href="https://www.instagram.com/thebuzzeradverts" style="color: white; text-decoration: none">Instagram</a> | <a href="https://wa.me/08133981148" style="color: lightgreen; text-decoration: none">Whatsapp</a> </div>
         </div>
     </body>
       <script src="/js/pwabuilder-sw.js"></script><script src="/js/pwabuilder-sw-register.js"></script>
